@@ -1,0 +1,5 @@
+export const GOOGLE_MAP_API_KEY = 'AIzaSyBcEqjJ9fGIhb0OJ5KIB25zC1VUyGRLUM4';
+export const INITIAL_MAP_CENTER = {
+  lat: 40.5772186337077,
+  lng: -73.857584895535
+};
